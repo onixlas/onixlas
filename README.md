@@ -1,4 +1,4 @@
-Привет. Меня зовут Михаил Васильев. Я — Data Scientist. В репозитории [DS_portfolio](https://github.com/onixlas/DS_portfolio) вы можете ознакомится с некоторыми моими проектами.
+Привет. Меня зовут Михаил Васильев. Я — Data Scientist. В репозитории [DS_portfolio](https://github.com/onixlas/DS_portfolio) вы можете ознакомиться с некоторыми моими проектами.
 
 В настоящее время работаю в компании [Makves](https://makves.ru/).
 
