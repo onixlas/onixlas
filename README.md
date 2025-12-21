@@ -1,40 +1,66 @@
 # Michael Vasiljev
 
-## About Me
+---
 
-Hello! My name is Michael Vasiljev. I am a data scientist and deep learning engineer with a passion for solving complex problems using machine learning and deep learning techniques.
+## 👋 About me
 
-## Experience
+I am an **AI / LLM Engineer and Data Scientist** with 3+ years of industry experience building and deploying production-grade machine learning systems, primarily in **NLP and LLM-based applications**.
 
-I have extensive experience in applying deep learning models to solve Computer Vision (CV) and Natural Language Processing (NLP) tasks. Additionally, I train classical ML models for anomaly detection in various contexts.
+I work at the intersection of **classical ML, modern LLM pipelines, and applied MLOps**, focusing on solving real business problems with measurable impact. I have hands-on experience delivering **end-to-end ML solutions** — from problem formulation and experimentation to online inference in production.
 
-## Education
+---
 
-- Graduate and Ambassador of [Yandex Practicum](https://practicum.yandex.ru/)
-- Graduate of the [Deep Learning School of FPMi MFTI](https://dls.samcs.ru/)
+## 🔧 Core expertise
 
-## Interests
+**LLM & NLP**
 
-I enjoy working with data, reading scientific articles, experimenting, trying different approaches to training ML models, and building graphs. I am meticulous, able to notice small logical errors, love intellectual games, and enjoy learning foreign languages.
+* Prompt engineering and LLM-based system design
+* Retrieval-Augmented Generation (RAG) pipelines
+* Embedding models and semantic search
+* Text classification and Named Entity Recognition (NER)
+* Practical experience with Russian-language NLP and multilingual models
 
-## Technologies
+**Models & Frameworks**
 
-- **Programming Languages**: Python
-- **Deep Learning**: Transformers, EfficientNet, MobileNet, YOLO, PyTorch, Lightning, ONNX, HuggingFace, BERT, Whisper, Ollama
-- **Machine Learning**: Pandas, Sklearn, PyOD
-- **Data Visualization**: Matplotlib, Plotly
-- **Web Development**: FastAPI, Uvicorn
-- **Deployment**: PyInstaller, PyWin32
-- **Optimization**: Optimum
-- **Workflow Management**: Airflow, MLflow
-- **Annotations**: CVAT
-- **NLP**: Natasha, DeepPavlov
+* BERT, RoBERTa
+* LLaMA, Mistral, Qwen, DeepSeek
+* PyTorch, Hugging Face, scikit-learn
 
-## Contacts
+**Production & MLOps**
 
-- **Email**: [gnu.xinm@gmail.com](mailto:gnu.xinm@gmail.com)
+* Online inference and API-based ML services
+* FastAPI-based model serving
+* Docker, CI/CD pipelines
+* Experiment tracking with MLflow
 
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white) ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+---
+
+## 🏗️ Selected projects
+
+**CheckDocAI**
+AI-powered Telegram bot for automated document quality control, successfully deployed in commercial use.
+
+* Led a small cross-functional team (data scientists + backend engineer)
+* Designed and implemented the ML pipeline (CV + NLP components)
+* Achieved a measurable business impact: ~40 human-hours saved per month
+* Tech stack: PyTorch, YOLO, ONNX, Albumentations, CVAT, aiogram
+
+---
+
+## 🌍 Open-source & public activity
+
+* Contributor to **PySAD** — an open-source library for anomaly detection in streaming data
+* Author of technical articles on anomaly detection methods (HBOS, ECOD, Isolation Forest)
+* Speaker at **Positive Hack Days 2025**: *“Anomaly Detection with Python”*
+
+---
+
+## 🎓 Background
+
+* Specialist degree in **Thermal Engineering**, Moscow Aviation Institute
+* Specialist degree in **Linguistics and Translation**, Moscow Aviation Institute
+* Solid foundation in mathematics, statistics, and algorithms
+
 
 <!---
 onixlas/onixlas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
