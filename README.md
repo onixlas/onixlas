@@ -2,7 +2,7 @@
 
 ---
 
-## 👋 About me
+## About me
 
 I am an **AI / LLM Engineer and Data Scientist** with 3+ years of industry experience building and deploying production-grade machine learning systems, primarily in **NLP and LLM-based applications**.
 
@@ -10,7 +10,7 @@ I work at the intersection of **classical ML, modern LLM pipelines, and applied 
 
 ---
 
-## 🔧 Core expertise
+## Core expertise
 
 **LLM & NLP**
 
@@ -35,7 +35,7 @@ I work at the intersection of **classical ML, modern LLM pipelines, and applied 
 
 ---
 
-## 🏗️ Selected projects
+## Selected projects
 
 **CheckDocAI**
 AI-powered Telegram bot for automated document quality control, successfully deployed in commercial use.
@@ -47,7 +47,7 @@ AI-powered Telegram bot for automated document quality control, successfully dep
 
 ---
 
-## 🌍 Open-source & public activity
+## Open-source & public activity
 
 * Contributor to **PySAD** — an open-source library for anomaly detection in streaming data
 * Author of technical articles on anomaly detection methods (HBOS, ECOD, Isolation Forest)
@@ -55,7 +55,7 @@ AI-powered Telegram bot for automated document quality control, successfully dep
 
 ---
 
-## 🎓 Background
+## Background
 
 * Specialist degree in **Thermal Engineering**, Moscow Aviation Institute
 * Specialist degree in **Linguistics and Translation**, Moscow Aviation Institute
